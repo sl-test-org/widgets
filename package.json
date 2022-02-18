@@ -1,6 +1,6 @@
 {
     "name": "@sl-test-org/widgets",
-    "version": "0.0.1",
+    "version": "0.0.2-SNAPSHOT",
     "description": "Collection of widgets from Semaphore Studio",
     "author": "Smartlogic Semaphore",
     "license": "See license in  LICENCE.txt file",
