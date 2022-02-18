@@ -8,6 +8,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     versioning-strategy: increase
+    open-pull-requests-limit: 100
     registries:
       - npm-github
     schedule:
