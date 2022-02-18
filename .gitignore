@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# builds
+cjs
+esm
+umd
+typings
+coverage
+/stats.html
+
+# misc
+npm-debug.log*
+.idea
+.vs
