@@ -1,7 +1,14 @@
 version: 2
+registries:
+  - npm-github:
+    type: npm-registry
+    url: https://npm.pkg.github.com
+    token: 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
 updates:
   - package-ecosystem: "npm"
     directory: "/"
     versioning-strategy: increase
+    registries:
+      - npm-github
     schedule:
       interval: "daily"
