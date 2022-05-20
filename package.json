@@ -50,7 +50,7 @@
       "use-http": "^1.0.21"
     },
     "devDependencies": {
-      "sass": "^1.38.1",
+      "sass": "^1.52.0",
       "bootstrap": "^4.6.0",
       "react-bootstrap": "^1.6.1",
       "@babel/core": "^7.14.8",
