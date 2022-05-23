@@ -69,7 +69,7 @@
       "@storybook/addon-docs": "^6.3.5",
       "@storybook/addon-essentials": "^6.3.5",
       "@storybook/addon-info": "^5.3.21",
-      "@storybook/addon-links": "^6.3.5",
+      "@storybook/addon-links": "^6.5.4",
       "@storybook/addons": "^6.3.5",
       "@storybook/react": "^6.3.5",
       "@svgr/rollup": "^5.5.0",
